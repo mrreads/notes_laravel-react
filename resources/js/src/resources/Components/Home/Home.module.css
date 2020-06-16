@@ -1,0 +1,11 @@
+.home
+{
+    flex-grow: 1;
+    padding: 25px;
+    background-color: #FFFFFF;
+}
+
+.home__heading
+{
+    text-align: center;
+}

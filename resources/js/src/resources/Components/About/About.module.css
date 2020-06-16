@@ -1,0 +1,11 @@
+.about
+{
+    flex-grow: 1;
+    padding: 25px;
+    background-color: #FFFFFF;
+}
+
+.about__heading
+{
+    text-align: center;
+}
